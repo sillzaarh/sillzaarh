@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/mmbverse/mmbverse/main/images/banner%20image.jpg" width="95%"></div><br>
+<!-- <div align="center"><img src="https://raw.githubusercontent.com/mmbverse/mmbverse/main/images/banner%20image.jpg" width="95%"></div><br> -->
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"/>, I'm Sillzaarh</h1>
 <h3 align="center">Cyber Security Enthusiast <img src="https://raw.githubusercontent.com/mmbverse/mmbverse/main/images/logo.png" alt="" width="15"></h3>
